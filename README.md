@@ -1,4 +1,5 @@
 # HackerRank-SQL
+![download (1)](https://user-images.githubusercontent.com/42386287/85514969-3dc5ce80-b61a-11ea-8e1a-1693448bb148.png)
 ## Description
 This repository contains solutions to all the [HackerRank SQL](https://github.com/namithadeshpande/HackerRank-SQL) Practice Questions. The repository contains 6 folders. These folders contain solutions for all easy, medium and difficult challenges executed on MySQL environment.
 
