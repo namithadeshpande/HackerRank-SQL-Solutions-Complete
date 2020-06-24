@@ -10,4 +10,7 @@ This repository contains solutions to all the [HackerRank SQL](https://github.co
 - [Advanced Join](https://github.com/namithadeshpande/HackerRank-SQL/tree/master/Advanced%20Join)
 - [Alternative Queries](https://github.com/namithadeshpande/HackerRank-SQL/tree/master/Alternative%20Queries)
 
+## License
+This repository is licensed under MIT Lisence. 
+
 
