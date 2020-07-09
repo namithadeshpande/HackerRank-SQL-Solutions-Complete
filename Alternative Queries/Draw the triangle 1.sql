@@ -1,3 +1,4 @@
+
 /* Write a query to print the pattern P(20). */
 
 
